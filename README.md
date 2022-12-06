@@ -1,4 +1,4 @@
-# tp5-colores
+# tp6-colores
 
 ## Project setup
 ```
